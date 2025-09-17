@@ -1,82 +1,64 @@
-<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=245&height=40&lines=montasim.github.io" alt="montasim.github.io" />
+# montasim.github.io
 
-<!-- repository summary badges start -->
-<div>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/montasim/montasim.github.io?&labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/montasim/montasim.github.io?&labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/montasim/montasim.github.io?&labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/montasim/montasim.github.io?&labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/montasim/montasim.github.io?&labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/montasim/montasim.github.io?&labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub" src="https://img.shields.io/github/license/montasim/montasim.github.io?&labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/montasim/montasim.github.io?&labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/montasim/montasim.github.io?&labelColor=EB008B&color=00B8B5">
+[![GitHub Repo stars](https://img.shields.io/github/stars/montasim/montasim.github.io?style=flat-square)](https://github.com/montasim/montasim.github.io/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/montasim/montasim.github.io?style=flat-square)](https://github.com/montasim/montasim.github.io/network/members)
+[![GitHub license](https://img.shields.io/github/license/montasim/montasim.github.io?style=flat-square)](https://github.com/montasim/montasim.github.io/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/montasim/montasim.github.io?style=flat-square)](https://github.com/montasim/montasim.github.io/commits/main)
+
+> A clean and modern redirect page for my personal portfolio website.
+
+## 🚀 Overview
+
+This repository contains the source code for my GitHub Pages site at [montasim.github.io](https://montasim.github.io), which provides a seamless redirect experience to my main portfolio at [montasim-dev.web.app](https://montasim-dev.web.app).
+
+## ✨ Features
+
+- **Modern UI**: Clean, minimal design built with Tailwind CSS
+- **Responsive**: Works perfectly on all devices
+- **Fast Redirect**: Automatic 3-second countdown with manual option
+- **Smooth Animations**: Subtle loading spinner and transitions
+- **SEO Optimized**: Proper meta tags and semantic HTML
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3 (Tailwind CSS)
+- Vanilla JavaScript
+- GitHub Pages
+
+## 📁 Project Structure
+
+```
+montasim.github.io/
+├── index.html          # Main redirect page
+├── 404.html           # Custom 404 error page
+├── README.md          # Project documentation
+├── css/               # Stylesheets
+├── js/                # JavaScript files
+└── media/             # Images and icons
+```
+
+## 🌐 Live Demo
+
+Visit [montasim.github.io](https://montasim.github.io) to see the redirect page in action.
+
+## 🔗 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montasim)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/montasim)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://montasim-dev.web.app/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:montasimmamun@gmail.com)
+
 </div>
-<!-- repository summary badges end -->
 
-<br/>
+## 📄 License
 
-<p>
-  My personal website - <a href="https://montasim.github.io/" target="_blank">montasim.github.io</a> redirects to <a href="https://montasim-dev.web.app/" target="_blank"> montasim-dev.web.app </a>
-</p>
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-<br/>
-<br/>
-<br/>
+---
 
-<!-- feel free to contact me text start -->
-<div> 
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=370&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
+<div align="center">
+  Made with ❤️ by <a href="https://montasim-dev.web.app">Montasim</a>
 </div>
-<!-- feel free to contact me text end -->
-
-<br/>
-
-<!-- social media links start -->
-<table>
-    <thead align="center">
-        <tr>
-            <th>
-                <a href="https://www.linkedin.com/in/montasim">
-                    <img alt="Linkedin icon" src="https://cdn.simpleicons.org/linkedin" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://www.github.com/montasim">
-                    <img alt="GitHub icon" src="https://cdn.simpleicons.org/github/white" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://stackoverflow.com/users/20348607/montasim">
-                    <img alt="StackOverflow icon" src="https://cdn.simpleicons.org/stackoverflow" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://montasim-dev.web.app/">
-                    <img alt="web icon" src="https://cdn.simpleicons.org/googlechrome" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="mailto:montasimmamun@gmail.com">
-                    <img alt="Gmail icon" src="https://cdn.simpleicons.org/gmail" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://www.facebook.com/montasimmamun/">
-                    <img alt="Facebook icon" src="https://cdn.simpleicons.org/facebook" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://twitter.com/montasimmamun">
-                    <img alt="Twitter icon" src="https://cdn.simpleicons.org/twitter" width="35px">
-                </a>
-            </th>
-        </tr>
-    </thead>
-</table>
-<!-- social media links end -->
-<!-- connect with me end -->
-
-<br/>
-<br/>
-<br/>
